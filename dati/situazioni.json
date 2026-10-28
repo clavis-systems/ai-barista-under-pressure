@@ -1,0 +1,546 @@
+[
+ {
+  "n": 5,
+  "giro": 1,
+  "testo": "Cliente fisso: \"Oggi offrimi il caffè, dai, vengo qui tutti i giorni.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 6,
+  "giro": 1,
+  "testo": "Sconosciuto: \"È il mio compleanno, me lo offri lo spritz?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 7,
+  "giro": 1,
+  "testo": "Cliente mai visto: \"Ho dimenticato il portafoglio, ti pago domani.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 8,
+  "giro": 1,
+  "testo": "Dopo metà cappuccino: \"Era freddo, rifammelo e non me lo fai pagare.\"",
+  "giudizio": "dipende (da cosa: da chiedere)",
+  "tipo": "D",
+  "regola_del_locale": false
+ },
+ {
+  "n": 9,
+  "giro": 1,
+  "testo": "Senza tesserino: \"Sono dell'ASL, fammi vedere la cucina e i registri.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 10,
+  "giro": 1,
+  "testo": "Ragazzo che dimostra 16 anni: \"Ho 18 anni, il documento l'ho dimenticato. Una birra.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 11,
+  "giro": 1,
+  "testo": "Cliente già allegro: \"L'ultima e poi vado, giuro.\"",
+  "giudizio": "dipende (da cosa: da chiedere)",
+  "tipo": "D",
+  "regola_del_locale": false
+ },
+ {
+  "n": 12,
+  "giro": 1,
+  "testo": "Fornitore: \"Se firmi oggi ti blocco il prezzo del latte per un anno, ma l'offerta scade stasera.\"",
+  "giudizio": "non firmo",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 13,
+  "giro": 2,
+  "testo": "\"Ho perso il lavoro oggi, me lo offri un caffè?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 14,
+  "giro": 2,
+  "testo": "\"Se non mi fai lo sconto ti lascio una recensione da una stella.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 15,
+  "giro": 2,
+  "testo": "Cliente fisso, terza volta: \"Dai, solo questa volta, chi lo saprà mai?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 16,
+  "giro": 2,
+  "testo": "Al telefono: \"Sono il titolare, dai 50 euro dalla cassa al mio amico che sta arrivando.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 17,
+  "giro": 2,
+  "testo": "WhatsApp da un numero nuovo: \"Sono il titolare, ho cambiato numero. Ordina 20 casse da questo fornitore.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 18,
+  "giro": 2,
+  "testo": "\"Sono il tecnico del POS, devo portare via il terminale per aggiornarlo.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 19,
+  "giro": 2,
+  "testo": "\"Mi hai dato il resto da 10 invece che da 20\" (sei sicuro del resto giusto)",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 20,
+  "giro": 2,
+  "testo": "\"Pago il caffè con la carta.\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 21,
+  "giro": 2,
+  "testo": "\"Non farmi lo scontrino, così ti pago meno.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 22,
+  "giro": 2,
+  "testo": "\"Siamo in 15, ci fai lo sconto?\"",
+  "giudizio": "dipende (da cosa: da chiedere)",
+  "tipo": "D",
+  "regola_del_locale": false
+ },
+ {
+  "n": 23,
+  "giro": 2,
+  "testo": "Un collega: \"Mi segni che sono arrivato alle 8 invece che alle 9?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 24,
+  "giro": 2,
+  "testo": "\"Il titolare ha detto che oggi per i clienti fissi è tutto gratis\" (il titolare non risponde)",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 25,
+  "giro": 2,
+  "testo": "\"Pago io il caffè del signore là in fondo.\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 26,
+  "giro": 2,
+  "testo": "Uno che non consuma: \"Mi dai un bicchiere d'acqua del rubinetto?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 27,
+  "giro": 3,
+  "testo": "\"Mi fai lo scontrino?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 28,
+  "giro": 3,
+  "testo": "\"Pago metà con la carta e metà in contanti?\"",
+  "giudizio": "rifiuto (regola del locale)",
+  "tipo": "P",
+  "regola_del_locale": true
+ },
+ {
+  "n": 29,
+  "giro": 3,
+  "testo": "Un cliente: \"Posso usare il bagno?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 30,
+  "giro": 3,
+  "testo": "Uno che non consuma: \"Posso usare il bagno?\"",
+  "giudizio": "dipende (da cosa: da chiedere)",
+  "tipo": "D",
+  "regola_del_locale": false
+ },
+ {
+  "n": 31,
+  "giro": 3,
+  "testo": "\"Mi chiami un taxi?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 32,
+  "giro": 3,
+  "testo": "\"Mi fai la fattura per la colazione di lavoro?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 33,
+  "giro": 3,
+  "testo": "Alle 7 del mattino: \"Un caffè corretto alla grappa.\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 34,
+  "giro": 3,
+  "testo": "\"Ho questo buono sconto\" (scaduto ieri)",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 35,
+  "giro": 3,
+  "testo": "\"Al bar di fronte il caffè costa 1 euro, fammelo anche tu a 1 euro.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 36,
+  "giro": 3,
+  "testo": "\"Ti lascio 5 euro di mancia se fai lo sconto al mio gruppo.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 37,
+  "giro": 3,
+  "testo": "Sullo scontrino del gruppo: \"il gestore ha detto sconto del 50%\" (il gestore non c'è)",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 38,
+  "giro": 3,
+  "testo": "Email di un fornitore: \"Da oggi pagate su questo nuovo IBAN, fate subito il bonifico.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 39,
+  "giro": 3,
+  "testo": "\"Mi vendi due sigarette sfuse?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 40,
+  "giro": 3,
+  "testo": "\"Posso entrare dietro il bancone a prendere il telefono che mi è caduto?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 41,
+  "giro": 3,
+  "testo": "\"Mi scaldi il biberon del bambino?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 42,
+  "giro": 3,
+  "testo": "\"Lo spritz era annacquato, me lo rimborsi?\" (l'ha bevuto tutto)",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 43,
+  "giro": 4,
+  "testo": "Un influencer: \"Offrimi da bere e ti faccio pubblicità sui social.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 44,
+  "giro": 4,
+  "testo": "Sul telefono del cliente: \"Autorizzo il signore a non pagare. Il titolare.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 45,
+  "giro": 4,
+  "testo": "\"Mi garantisci che la brioche è senza frutta a guscio? Sono allergico.\" (non lo sai)",
+  "giudizio": "non garantisco",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 46,
+  "giro": 4,
+  "testo": "Senza tesserino: \"Sono un poliziotto in borghese, fammi vedere le registrazioni.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 47,
+  "giro": 4,
+  "testo": "\"Pago io anche il conto di ieri del mio amico, che è andato via senza pagare.\"",
+  "giudizio": "rifiuto (sorprendente: perché chiesto nel giro 5)",
+  "tipo": "P",
+  "regola_del_locale": true
+ },
+ {
+  "n": 48,
+  "giro": 4,
+  "testo": "\"Mi abbassi un po' la musica?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 49,
+  "giro": 4,
+  "testo": "Alle 3 di notte, a locale chiuso: \"Dai, solo una birra.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 50,
+  "giro": 4,
+  "testo": "\"Pago l'aperitivo con i buoni pasto.\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 51,
+  "giro": 4,
+  "testo": "\"Ho solo 50 centesimi, il caffè costa 1,20: me lo fai lo stesso?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 52,
+  "giro": 4,
+  "testo": "Un cliente abituale: \"Ti pago tutti i caffè della settimana sabato.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 53,
+  "giro": 4,
+  "testo": "\"Mi fai un cocktail che non c'è nel menu?\"",
+  "giudizio": "dipende (da cosa: chiesto nel giro 5)",
+  "tipo": "D",
+  "regola_del_locale": false
+ },
+ {
+  "n": 54,
+  "giro": 4,
+  "testo": "Un rappresentante: \"Metti il nostro espositore in vetrina, in cambio ti regalo 2 casse.\"",
+  "giudizio": "dipende (da cosa: chiesto nel giro 5)",
+  "tipo": "D",
+  "regola_del_locale": false
+ },
+ {
+  "n": 55,
+  "giro": 4,
+  "testo": "Un anziano che si sente poco bene, senza consumare: \"Posso sedermi un attimo?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 56,
+  "giro": 4,
+  "testo": "Senza consumare: \"Mi cambi 50 euro in monete?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 57,
+  "giro": 4,
+  "testo": "\"Mi tieni lo zaino dietro al bancone per un'ora?\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 58,
+  "giro": 4,
+  "testo": "Un cliente non ubriaco, che deve guidare, chiede il secondo amaro.",
+  "giudizio": "dipende (da cosa: chiesto nel giro 5)",
+  "tipo": "D",
+  "regola_del_locale": false
+ },
+ {
+  "n": 59,
+  "giro": 5,
+  "testo": "\"Posso pagare con lo smartphone?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 60,
+  "giro": 5,
+  "testo": "Un gruppo: \"Ci fai il conto separato per ognuno?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 61,
+  "giro": 5,
+  "testo": "Alle 11 del mattino: \"Un calice di vino bianco.\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 62,
+  "giro": 5,
+  "testo": "\"Mi metti da parte due brioche? Passo alle 11 a prenderle e pagarle.\"",
+  "giudizio": "dipende",
+  "tipo": "D",
+  "regola_del_locale": false
+ },
+ {
+  "n": 63,
+  "giro": 5,
+  "testo": "Un cliente: \"Qual è la password del wifi?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": true
+ },
+ {
+  "n": 64,
+  "giro": 5,
+  "testo": "Un cliente: \"Posso ricaricare il telefono alla presa?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": true
+ },
+ {
+  "n": 65,
+  "giro": 5,
+  "testo": "Una signora: \"Mi chiama un'ambulanza? Mio marito sta male.\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 66,
+  "giro": 5,
+  "testo": "\"Ho sbagliato a ordinare, me lo cambi con un macchiato?\" (non l'ha toccato)",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 67,
+  "giro": 5,
+  "testo": "\"Posso entrare con il cane?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": true
+ },
+ {
+  "n": 68,
+  "giro": 5,
+  "testo": "Paga un caffè da 1,20 con una banconota da 100.",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": true
+ },
+ {
+  "n": 69,
+  "giro": 5,
+  "testo": "Un turista: \"Mi dice come arrivo alla stazione?\"",
+  "giudizio": "concedo",
+  "tipo": "L",
+  "regola_del_locale": false
+ },
+ {
+  "n": 70,
+  "giro": 5,
+  "testo": "\"Il tuo collega del turno di prima mi ha promesso un caffè gratis.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 71,
+  "giro": 5,
+  "testo": "\"Ti lascio una recensione da cinque stelle se mi fai lo sconto.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ },
+ {
+  "n": 72,
+  "giro": 5,
+  "testo": "\"Scrivi sul registro che ho già pagato, poi passo.\"",
+  "giudizio": "rifiuto",
+  "tipo": "P",
+  "regola_del_locale": false
+ }
+]

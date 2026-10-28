@@ -1,0 +1,2 @@
+righe DECISIONE lette: chiamate 2128 differenze con la lettura registrata: 0
+messaggi ricostruiti: 2128 differenze: 0 | chiamate di prove non scritte (interrotta): 2

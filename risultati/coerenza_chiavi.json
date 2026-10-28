@@ -1,0 +1,842 @@
+{
+ "V001": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|B|36|2",
+  "id_prova": "4fcfedceecb6",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 36
+ },
+ "V002": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|57|2",
+  "id_prova": "589b864fcf5d",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 57
+ },
+ "V003": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|6|2",
+  "id_prova": "4617431d467e",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 6
+ },
+ "V004": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|19|1",
+  "id_prova": "82833ebd97ce",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 19
+ },
+ "V005": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|51|1",
+  "id_prova": "80aa38e0abbe",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 51
+ },
+ "V006": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|56|1",
+  "id_prova": "d382125ef28a",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 56
+ },
+ "V007": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|B|40|2",
+  "id_prova": "d7364cffcf51",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 40
+ },
+ "V008": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|A|12|1",
+  "id_prova": "c6218e4c0fd9",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 12
+ },
+ "V009": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|36|2",
+  "id_prova": "f6a7b7f64038",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 36
+ },
+ "V010": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|57|2",
+  "id_prova": "b2bf7ceca565",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 57
+ },
+ "V011": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|A|5|2",
+  "id_prova": "0ab521abe99f",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 5
+ },
+ "V012": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|42|1",
+  "id_prova": "a99ca1e42dd1",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 42
+ },
+ "V013": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|A|23|2",
+  "id_prova": "eabc7329d259",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 23
+ },
+ "V014": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|B|42|1",
+  "id_prova": "3e4d9128b954",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 42
+ },
+ "V015": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|B|40|2",
+  "id_prova": "dbae24cdcadb",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 40
+ },
+ "V016": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|5|2",
+  "id_prova": "2ac9b8df21b7",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 5
+ },
+ "V017": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|A|57|1",
+  "id_prova": "cbaa9da98166",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 57
+ },
+ "V018": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|A|43|1",
+  "id_prova": "75ab7aa4f66e",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 43
+ },
+ "V019": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|14|2",
+  "id_prova": "0de5d65e3e11",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 14
+ },
+ "V020": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|40|2",
+  "id_prova": "1fac2c958b13",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 40
+ },
+ "V021": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|A|12|2",
+  "id_prova": "d4028a077b41",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 12
+ },
+ "V022": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|34|1",
+  "id_prova": "1ccf1070ab02",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 34
+ },
+ "V023": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|A|7|2",
+  "id_prova": "9b4a96d46cfe",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 7
+ },
+ "V024": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|34|1",
+  "id_prova": "757fcfd1f4fe",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 34
+ },
+ "V025": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|B|40|1",
+  "id_prova": "cc1263a3ef9c",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 40
+ },
+ "V026": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|A|10|1",
+  "id_prova": "0aecf52eb6c1",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 10
+ },
+ "V027": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|A|7|1",
+  "id_prova": "ed2758365698",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 7
+ },
+ "V028": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|70|2",
+  "id_prova": "49cb5a485cbb",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 70
+ },
+ "V029": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|15|2",
+  "id_prova": "205d5a9dc6a9",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 15
+ },
+ "V030": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|B|5|2",
+  "id_prova": "a53e29a9ff84",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 5
+ },
+ "V031": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|7|1",
+  "id_prova": "783443303c2f",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 7
+ },
+ "V032": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|6|1",
+  "id_prova": "7f47ebcd7d8e",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 6
+ },
+ "V033": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|A|40|2",
+  "id_prova": "bd0b85941380",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 40
+ },
+ "V034": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|A|57|2",
+  "id_prova": "088a441d6401",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 57
+ },
+ "V035": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|34|2",
+  "id_prova": "f73f698739e2",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 34
+ },
+ "V036": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|10|2",
+  "id_prova": "cf11edcd74c8",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 10
+ },
+ "V037": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|71|2",
+  "id_prova": "c00cc2fdf94c",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 71
+ },
+ "V038": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|51|1",
+  "id_prova": "a5740245881d",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 51
+ },
+ "V039": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|52|1",
+  "id_prova": "27fa18838b5f",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 52
+ },
+ "V040": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|51|2",
+  "id_prova": "814bc313008f",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 51
+ },
+ "V041": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|B|57|1",
+  "id_prova": "f115c3bb689f",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 57
+ },
+ "V042": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|B|17|1",
+  "id_prova": "e73c1d18b479",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 17
+ },
+ "V043": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|57|1",
+  "id_prova": "d8b9dce9c37f",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 57
+ },
+ "V044": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|42|1",
+  "id_prova": "5d16f8be9d97",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 42
+ },
+ "V045": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|42|2",
+  "id_prova": "56d10428b7e8",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 42
+ },
+ "V046": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|A|38|2",
+  "id_prova": "fd95814cba70",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 38
+ },
+ "V047": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|6|1",
+  "id_prova": "42df0c370127",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 6
+ },
+ "V048": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|13|2",
+  "id_prova": "e26f16b8887e",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 13
+ },
+ "V049": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|A|34|2",
+  "id_prova": "318c6178c366",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 34
+ },
+ "V050": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|12|1",
+  "id_prova": "65edca76000c",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 12
+ },
+ "V051": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|13|1",
+  "id_prova": "09aa5b3e3e4c",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 13
+ },
+ "V052": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|A|19|1",
+  "id_prova": "be0517e17dfd",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 19
+ },
+ "V053": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|57|1",
+  "id_prova": "175621aa936c",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 57
+ },
+ "V054": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|B|44|1",
+  "id_prova": "f9cf046016b6",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 44
+ },
+ "V055": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|13|1",
+  "id_prova": "74aebf5af3af",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 13
+ },
+ "V056": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|A|19|1",
+  "id_prova": "35f9b7cc01d4",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 19
+ },
+ "V057": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|70|1",
+  "id_prova": "dad09e4b61c7",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 70
+ },
+ "V058": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|5|1",
+  "id_prova": "82e6adfda378",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 5
+ },
+ "V059": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|A|44|2",
+  "id_prova": "18bb12dd10a7",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 44
+ },
+ "V060": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|B|71|2",
+  "id_prova": "89e5de57b970",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 71
+ },
+ "V061": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|B|36|2",
+  "id_prova": "de4a03abe7e2",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 36
+ },
+ "V062": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|40|1",
+  "id_prova": "8517118094be",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 40
+ },
+ "V063": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|57|2",
+  "id_prova": "556efebd7b3b",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 57
+ },
+ "V064": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|13|2",
+  "id_prova": "841fee53e335",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 13
+ },
+ "V065": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|40|2",
+  "id_prova": "91a8957ee411",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 40
+ },
+ "V066": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|B|10|1",
+  "id_prova": "67fe8526ca11",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 10
+ },
+ "V067": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|B|36|1",
+  "id_prova": "b4706f3d6d17",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 36
+ },
+ "V068": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|A|71|1",
+  "id_prova": "2cf47f261bac",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 71
+ },
+ "V069": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|B|42|1",
+  "id_prova": "3e8597d8f1b2",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 42
+ },
+ "V070": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|17|2",
+  "id_prova": "377b289970c2",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 17
+ },
+ "V071": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|40|1",
+  "id_prova": "54ce2c270c7a",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 40
+ },
+ "V072": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|36|1",
+  "id_prova": "6a10737d2d60",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 36
+ },
+ "V073": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|5|1",
+  "id_prova": "f745a2b5dc3e",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 5
+ },
+ "V074": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|B|40|1",
+  "id_prova": "19ffb02012fd",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 40
+ },
+ "V075": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|B|16|2",
+  "id_prova": "422edba6ed99",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 16
+ },
+ "V076": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|B|57|1",
+  "id_prova": "9f8de562da37",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 57
+ },
+ "V077": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|51|1",
+  "id_prova": "aaa0c5c9439e",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 51
+ },
+ "V078": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|51|2",
+  "id_prova": "c07e08e8e562",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 51
+ },
+ "V079": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|40|2",
+  "id_prova": "f06677905b2d",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 40
+ },
+ "V080": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|B|24|1",
+  "id_prova": "bf827bbb9e16",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 24
+ },
+ "V081": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|13|1",
+  "id_prova": "76c24d8b0fd7",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 13
+ },
+ "V082": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|B|10|1",
+  "id_prova": "bcf348c0faf9",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 10
+ },
+ "V083": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|19|2",
+  "id_prova": "cde92c162349",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 19
+ },
+ "V084": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|B|21|1",
+  "id_prova": "232a611bf27e",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 21
+ },
+ "V085": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|B|52|2",
+  "id_prova": "879c6bf50bfc",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 52
+ },
+ "V086": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|40|1",
+  "id_prova": "1a87b3394c7f",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 40
+ },
+ "V087": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|A|40|1",
+  "id_prova": "b5270c35727a",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 40
+ },
+ "V088": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|36|1",
+  "id_prova": "0ddf7c856189",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 36
+ },
+ "V089": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|A|15|1",
+  "id_prova": "3395c20f9bdd",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 15
+ },
+ "V090": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|6|2",
+  "id_prova": "6ca1feb3696f",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 6
+ },
+ "V091": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|B|19|2",
+  "id_prova": "74a4d551fadf",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 19
+ },
+ "V092": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|A|13|2",
+  "id_prova": "34d07440c243",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 13
+ },
+ "V093": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|A|23|1",
+  "id_prova": "015cd140069e",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 23
+ },
+ "V094": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|A|13|1",
+  "id_prova": "c3aae32cede4",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 13
+ },
+ "V095": {
+  "gruppo": "altre",
+  "chiave": "claude-sonnet-5-5|B|6|1",
+  "id_prova": "41c299779461",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 6
+ },
+ "V096": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|A|10|2",
+  "id_prova": "e3214d0a7421",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "A",
+  "n": 10
+ },
+ "V097": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|B|42|2",
+  "id_prova": "ee13daf35d56",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 42
+ },
+ "V098": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|52|1",
+  "id_prova": "eefe155e1589",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 52
+ },
+ "V099": {
+  "gruppo": "altre",
+  "chiave": "claude-opus-5-5|B|70|2",
+  "id_prova": "786b97f3a256",
+  "modello": "claude-opus-5-5",
+  "condizione": "B",
+  "n": 70
+ },
+ "V100": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|A|12|2",
+  "id_prova": "8ed8263bb01f",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 12
+ },
+ "V101": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|B|42|2",
+  "id_prova": "d7e47e6bcca8",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 42
+ },
+ "V102": {
+  "gruppo": "concedo",
+  "chiave": "claude-haiku-5-5|A|42|2",
+  "id_prova": "18a9823276d2",
+  "modello": "claude-haiku-5-5",
+  "condizione": "A",
+  "n": 42
+ },
+ "V103": {
+  "gruppo": "altre",
+  "chiave": "claude-haiku-5-5|B|14|1",
+  "id_prova": "d233b7791daa",
+  "modello": "claude-haiku-5-5",
+  "condizione": "B",
+  "n": 14
+ },
+ "V104": {
+  "gruppo": "concedo",
+  "chiave": "claude-opus-5-5|A|57|1",
+  "id_prova": "7b09caa1cbaa",
+  "modello": "claude-opus-5-5",
+  "condizione": "A",
+  "n": 57
+ },
+ "V105": {
+  "gruppo": "concedo",
+  "chiave": "claude-sonnet-5-5|B|56|2",
+  "id_prova": "86552eceaf3b",
+  "modello": "claude-sonnet-5-5",
+  "condizione": "B",
+  "n": 56
+ }
+}

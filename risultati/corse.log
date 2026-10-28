@@ -1,0 +1,91 @@
+ok: 15 file identici al congelamento
+[2026-10-27 21:41:58] versioni: {'claude_code': '2.1.308 (Claude Code)', 'ollama': None}
+[2026-10-27 21:41:58] claude-haiku-5-5: 272 prove da fare su 272
+[2026-10-27 21:42:43] claude-haiku-5-5: 20/272
+[2026-10-27 21:43:29] claude-haiku-5-5: 40/272
+[2026-10-27 21:44:15] claude-haiku-5-5: 60/272
+[2026-10-27 21:44:56] claude-haiku-5-5: 80/272
+[2026-10-27 21:45:50] claude-haiku-5-5: 100/272
+[2026-10-27 21:46:40] claude-haiku-5-5: 120/272
+[2026-10-27 21:47:22] claude-haiku-5-5: 140/272
+[2026-10-27 21:48:09] claude-haiku-5-5: 160/272
+[2026-10-27 21:48:50] claude-haiku-5-5: 180/272
+[2026-10-27 21:49:25] claude-haiku-5-5: 200/272
+[2026-10-27 21:50:12] claude-haiku-5-5: 220/272
+[2026-10-27 21:50:47] claude-haiku-5-5: 240/272
+[2026-10-27 21:51:45] claude-haiku-5-5: 260/272
+[2026-10-27 21:52:06] claude-haiku-5-5: finito (272 prove fatte, 0 rimandate)
+[2026-10-27 21:52:06] claude-haiku-5-5: corsa completa
+ok: 15 file identici al congelamento
+[2026-10-27 21:52:07] claude-haiku-5-5: chiusura, 0 prove scritte come perse; ne mancano ancora 0
+ok: 15 file identici al congelamento
+[2026-10-27 21:52:09] versioni: {'claude_code': '2.1.308 (Claude Code)', 'ollama': None}
+[2026-10-27 21:52:09] claude-sonnet-5-5: 272 prove da fare su 272
+[2026-10-27 21:53:12] claude-sonnet-5-5: 20/272
+[2026-10-27 21:54:08] claude-sonnet-5-5: 40/272
+[2026-10-27 21:55:13] claude-sonnet-5-5: 60/272
+[2026-10-27 21:56:10] claude-sonnet-5-5: 80/272
+[2026-10-27 21:57:10] claude-sonnet-5-5: 100/272
+[2026-10-27 21:57:54] claude-sonnet-5-5: 120/272
+[2026-10-27 21:58:49] claude-sonnet-5-5: 140/272
+[2026-10-27 21:59:43] claude-sonnet-5-5: 160/272
+[2026-10-27 22:00:28] claude-sonnet-5-5: 180/272
+[2026-10-27 22:01:23] claude-sonnet-5-5: 200/272
+[2026-10-27 22:02:40] claude-sonnet-5-5: 220/272
+[2026-10-27 22:03:50] claude-sonnet-5-5: 240/272
+[2026-10-27 22:04:48] claude-sonnet-5-5: 260/272
+[2026-10-27 22:05:32] claude-sonnet-5-5: finito (272 prove fatte, 0 rimandate)
+[2026-10-27 22:05:32] claude-sonnet-5-5: corsa completa
+ok: 15 file identici al congelamento
+[2026-10-27 22:05:32] claude-sonnet-5-5: chiusura, 0 prove scritte come perse; ne mancano ancora 0
+ok: 15 file identici al congelamento
+[2026-10-27 22:05:35] versioni: {'claude_code': '2.1.308 (Claude Code)', 'ollama': None}
+[2026-10-27 22:05:35] claude-opus-5-5: 272 prove da fare su 272
+[2026-10-27 22:06:29] claude-opus-5-5: 20/272
+[2026-10-27 22:07:26] claude-opus-5-5: 40/272
+[2026-10-27 22:08:32] claude-opus-5-5: 60/272
+[2026-10-27 22:09:22] claude-opus-5-5: 80/272
+[2026-10-27 22:10:09] claude-opus-5-5: 100/272
+[2026-10-27 22:10:57] claude-opus-5-5: 120/272
+[2026-10-27 22:11:43] claude-opus-5-5: 140/272
+[2026-10-27 22:12:57] claude-opus-5-5: 160/272
+[2026-10-27 22:13:50] claude-opus-5-5: 180/272
+[2026-10-27 22:14:12] mi fermo, si riprende rilanciando: You've hit your session limit · resets 10:20pm (Europe/Rome)
+[2026-10-27 22:14:12] claude-opus-5-5: pausa, riprovo fra 30 minuti (1/12)
+ok: 15 file identici al congelamento
+[2026-10-27 22:44:15] versioni: {'claude_code': '2.1.308 (Claude Code)', 'ollama': None}
+[2026-10-27 22:44:15] claude-opus-5-5: 85 prove da fare su 272
+[2026-10-27 22:44:57] claude-opus-5-5: 20/85
+[2026-10-27 22:46:04] claude-opus-5-5: 40/85
+[2026-10-27 22:46:49] claude-opus-5-5: 60/85
+[2026-10-27 22:47:30] claude-opus-5-5: 80/85
+[2026-10-27 22:47:44] claude-opus-5-5: finito (85 prove fatte, 0 rimandate)
+[2026-10-27 22:47:44] claude-opus-5-5: corsa completa
+ok: 15 file identici al congelamento
+[2026-10-27 22:47:45] claude-opus-5-5: chiusura, 0 prove scritte come perse; ne mancano ancora 0
+ok: 15 file identici al congelamento
+[2026-10-27 22:47:47] avvio ollama serve
+[2026-10-27 22:47:58] versioni: {'claude_code': '2.1.308 (Claude Code)', 'ollama': '0.32.13'}
+[2026-10-27 22:47:58] qwen3:8b: 272 prove da fare su 272
+[2026-10-27 22:48:34] qwen3:8b: 20/272
+[2026-10-27 22:49:07] qwen3:8b: 40/272
+[2026-10-27 22:49:43] qwen3:8b: 60/272
+[2026-10-27 22:50:14] qwen3:8b: 80/272
+ok: 15 file identici al congelamento
+[2026-10-28 16:07:46] avvio ollama serve
+[2026-10-28 16:08:18] versioni: {'claude_code': '2.1.308 (Claude Code)', 'ollama': '0.32.13'}
+[2026-10-28 16:08:18] qwen3:8b: 186 prove da fare su 272
+[2026-10-28 16:09:28] qwen3:8b: 20/186
+[2026-10-28 16:10:20] qwen3:8b: 40/186
+[2026-10-28 16:11:09] qwen3:8b: 60/186
+[2026-10-28 16:11:46] qwen3:8b: 80/186
+[2026-10-28 16:12:30] qwen3:8b: 100/186
+[2026-10-28 16:13:12] qwen3:8b: 120/186
+[2026-10-28 16:13:46] qwen3:8b: 140/186
+[2026-10-28 16:14:20] qwen3:8b: 160/186
+[2026-10-28 16:14:58] qwen3:8b: 180/186
+[2026-10-28 16:15:10] qwen3:8b: finito (186 prove fatte, 0 rimandate)
+[2026-10-28 16:15:10] qwen3:8b: corsa completa
+ok: 15 file identici al congelamento
+[2026-10-28 16:15:11] qwen3:8b: chiusura, 0 prove scritte come perse; ne mancano ancora 0
+[2026-10-28 16:15:11] fine delle corse, ultimi codici: {'qwen3:8b': 0}
